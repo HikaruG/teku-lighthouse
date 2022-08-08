@@ -1,4 +1,4 @@
-# Teku - Besu docker compose setup
+# Lighthouse - Besu docker compose setup
 
 1. Create the JWT secret
 ```
